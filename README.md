@@ -2,13 +2,13 @@
 ![image](https://github.com/Samsonasumu/-Samsonasumu/assets/99386103/c7706838-72c3-4a7f-afde-d4eb10fd0150)
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/    /">
+  <a href="https://www.linkedin.com/in/samson-asumu-335687174/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=okobarobert7@gmail.com&tf=cm">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=samsonasumu@gmail.com&tf=cm">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/ ">
+  <a href="https://twitter.com/Samsonasumu">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
@@ -16,19 +16,6 @@
 <img src="https://komarev.com/ghpvc/?username= style=flat-square&color=blue" alt=""/>
 <h1>
 
-from dataclasses import dataclass
-@dataclass(frozen=True)
-
-@dataclass(frozen=True)
-class Social:
-    github: str = 'https://www.github.com/Samsonasumu'
-    codewars: str = 'https://www.codewars.com/users/SamsonMwole'
-    twitter: str = 'https://twitter.com/Samsonasumu'
-    email: str = 'samsonasumu@gmail.com'
-    linkedin : str = 'https://www.linkedin.com/in/samson-asumu-335687174/'
-
-    
-[![LinkedIn](https://www.linkedin.com/in/samsonasumu/ "Samson Asumu LinkedIn Profile")](https://www.linkedin.com/) | (+254) 746137562 | [samsonasumu@gmail.com](mailto:samsonasumu@gmail.com)
 
 A passionate Data Scientist with a strong foundation in Statistics, seeking to leverage analytical and technical skills to solve real-world data challenges. Driven by a desire to extract insights and create value through data-driven solutions.
 
