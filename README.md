@@ -23,8 +23,9 @@ A passionate Data Scientist with a strong foundation in Statistics, seeking to l
 
 * Completed Holberton School's rigorous Alx Software Engineering program
 ## Skills
-**Programming:** Python, R, SQL, JavaScript, React, HTML, CSS
 **Visualization:** Tableau, Power BI, Excel Charts, Jupyter Notebook
+https://public.tableau.com/app/profile/samson.asumu/vizzes
+
 **Statistical Analysis:** R, SPSS, STATA, Excel
 **Databases:** MySQL
 **Soft Skills:** Excellent communication (written & verbal), Presentation skills
@@ -37,6 +38,10 @@ A passionate Data Scientist with a strong foundation in Statistics, seeking to l
 
 
 <div>
+    <img src="![image](https://github.com/Samsonasumu/-Samsonasumu/assets/99386103/d1c3a84c-5087-4cd3-a5b6-d88bd0964d10)
+" title="Tablaeu" alt="Tablaeu" width="40" height="40"/>&nbsp;
+
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
