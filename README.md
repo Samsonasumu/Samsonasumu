@@ -17,15 +17,12 @@
 <h1>
 
 
-**A passionate Data Scientist with a strong foundation in Statistics, seeking to leverage analytical and technical skills to solve real-world data challenges. Driven by a desire to extract insights and create value through data-driven solutions.
+A passionate Data Scientist with a strong foundation in Statistics, seeking to leverage analytical and technical skills to solve real-world data challenges. Driven by a desire to extract insights and create value through data-driven solutions.
 
 **Highlights:**
 
 * Completed Holberton School's rigorous Alx Software Engineering program
 ## Skills
-
-**Programming:**
-
 **Programming:** Python, R, SQL, JavaScript, React, HTML, CSS
 **Visualization:** Tableau, Power BI, Excel Charts, Jupyter Notebook
 **Statistical Analysis:** R, SPSS, STATA, Excel
