@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username= style=flat-square&color=blue" alt=""/>
 <h1>
 
-
+## About Me
 A passionate Data Scientist with a strong foundation in Statistics, seeking to leverage analytical and technical skills to solve real-world data challenges. Driven by a desire to extract insights and create value through data-driven solutions.
 
 **Highlights:**
@@ -51,5 +51,4 @@ A passionate Data Scientist with a strong foundation in Statistics, seeking to l
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samsonasumu&theme=java-dark)](https://git.io/streak-stats)]
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samsonasumu&layout=compact&theme=vision-friendly-dark)
-  [![robertokoba7's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samsonasumu&theme=chartreuse-dark)](https://github.com/Samsonasumu/github-readme-activity-graph)
- 
+  
