@@ -1,7 +1,20 @@
 # Samson Asumu - Data Scientist and Software Engineer
 ![image](https://github.com/Samsonasumu/-Samsonasumu/assets/99386103/c7706838-72c3-4a7f-afde-d4eb10fd0150)
 
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/    /">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=okobarobert7@gmail.com&tf=cm">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://twitter.com/ ">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  </div>
+<img src="https://komarev.com/ghpvc/?username= style=flat-square&color=blue" alt=""/>
+<h1>
 
 from dataclasses import dataclass
 @dataclass(frozen=True)
