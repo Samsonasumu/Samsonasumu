@@ -17,7 +17,7 @@
 <h1>
 
 
-A passionate Data Scientist with a strong foundation in Statistics, seeking to leverage analytical and technical skills to solve real-world data challenges. Driven by a desire to extract insights and create value through data-driven solutions.
+**A passionate Data Scientist with a strong foundation in Statistics, seeking to leverage analytical and technical skills to solve real-world data challenges. Driven by a desire to extract insights and create value through data-driven solutions.
 
 **Highlights:**
 
@@ -25,16 +25,6 @@ A passionate Data Scientist with a strong foundation in Statistics, seeking to l
 ## Skills
 
 **Programming:**
-
-* Python: 
-  ![image](https://github.com/Samsonasumu/-Samsonasumu/assets/99386103/3efce494-96b4-4e09-a761-0aed03424cb9)
-
-* R: ![R Logo](path/to/your/r-logo.svg)  
-* SQL: ![SQL Logo](path/to/your/sql-logo.svg)  
-* JavaScript: ![JavaScript Logo](path/to/your/javascript-logo.svg)  
-* React: ![React Logo](path/to/your/react-logo.svg)  
-* HTML: ![HTML Logo](path/to/your/html-logo.svg)  
-* CSS: ![CSS Logo](path/to/your/css-logo.svg)  
 
 **Programming:** Python, R, SQL, JavaScript, React, HTML, CSS
 **Visualization:** Tableau, Power BI, Excel Charts, Jupyter Notebook
@@ -63,7 +53,6 @@ A passionate Data Scientist with a strong foundation in Statistics, seeking to l
  ### :fire: Samson asumu Github Stats :
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samsonasumu&theme=java-dark)](https://git.io/streak-stats)]
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samsonasumu&layout=compact&theme=vision-friendly-dark)
-  [![robertokoba7's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samsonasumu&theme=chartreuse-dark)](https://github.com/robertokoba7/github-readme-activity-graph)
+  [![robertokoba7's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samsonasumu&theme=chartreuse-dark)](https://github.com/Samsonasumu/github-readme-activity-graph)
  
