@@ -1,5 +1,17 @@
 # Samson Asumu - Data Scientist and Software Engineer
 
+from dataclasses import dataclass
+@dataclass(frozen=True)
+
+@dataclass(frozen=True)
+class Social:
+    github: str = 'https://www.github.com/Samsonasumu'
+    codewars: str = 'https://www.codewars.com/users/SamsonMwole'
+    twitter: str = 'https://twitter.com/Samsonasumu'
+    email: str = 'samsonasumu@gmail.com'
+    linkedin : str = 'https://www.linkedin.com/in/samson-asumu-335687174/'
+
+    
 [![LinkedIn](https://www.linkedin.com/in/samsonasumu/ "Samson Asumu LinkedIn Profile")](https://www.linkedin.com/) | (+254) 746137562 | [samsonasumu@gmail.com](mailto:samsonasumu@gmail.com)
 
 A passionate Data Scientist with a strong foundation in Statistics, seeking to leverage analytical and technical skills to solve real-world data challenges. Driven by a desire to extract insights and create value through data-driven solutions.
