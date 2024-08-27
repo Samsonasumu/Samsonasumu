@@ -17,26 +17,29 @@
 <h1>
 
 ## About Me
+
+"As a full-stack developer proficient in Django and React, I combine  my technical expertise to build robust and user-centric web applications. 
+My experience in building scalable and efficient backend systems, coupled with my ability to deliver engaging frontend experiences, enables me to deliver high-quality products that meet both technical and business objectives."
+
 A passionate Data Scientist with a strong foundation in Statistics, seeking to leverage analytical and technical skills to solve real-world data challenges. Driven by a desire to extract insights and create value through data-driven solutions.
+
+
 
 **Highlights:**
 
-* Completed Holberton School's rigorous Alx Software Engineering program
-## Skills
+ ## Skills
 **Visualization:** Tableau, Power BI, Excel Charts, Jupyter Notebook
 
 
 https://public.tableau.com/app/profile/samson.asumu/vizzes
  
-**Statistical Analysis:** R, SPSS, STATA, Excel
-**Databases:** MySQL
-**Soft Skills:** Excellent communication (written & verbal), Presentation skills
+  
 
-
-## Certifications & Awards
+## Education
 
 * Holberton School - Alx Software Engineering
-
+* Egerton University - Bachelor in Statistics
+  68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966
 
 ## Programming tools
 
