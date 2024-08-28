@@ -1,4 +1,4 @@
-# Samson Asumu - Data Scientist and Software Engineer
+# Data Scientist and Software Engineer
 ![image](https://github.com/Samsonasumu/-Samsonasumu/assets/99386103/c7706838-72c3-4a7f-afde-d4eb10fd0150)
 
 <div id="badges">
